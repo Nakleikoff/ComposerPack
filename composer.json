@@ -9,7 +9,7 @@
     "minimum-stability": "dev",
     "require": {
       "php": ">=5.5.0",
-      "zendframework/zend-validator": "2.3.*"
+      "twig/twig": "~1.18"
     },
     "autoload": {
       "classmap": ["Helper/"]
