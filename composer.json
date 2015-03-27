@@ -1,0 +1,11 @@
+{
+    "name": "alexeymaleykov/composer-pack",
+    "authors": [
+        {
+            "name": "Alexey Maleykov",
+            "email": "a@htmlacademy.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
